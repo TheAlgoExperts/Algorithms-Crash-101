@@ -11,3 +11,11 @@
 추후 Algorithms Patterns 에 대해서 공부 예정
 
 [참고 사이트](https://cs.lmu.edu/~ray/notes/algpatterns/#:~:text=An%20algorithmic%20pattern%2C%20or%20algorithmic,technique%20of%20solving%20a%20problem.)
+
+### 공식 처럼 외우고 있으면 좋은 내장, 외장 함수들 !!!
+
+1. n,m,k 를 공백으로 입력 받기
+
+```python
+    n, m, k = map(list(int, input().split()))
+```
